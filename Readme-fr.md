@@ -18,7 +18,7 @@ J'ai tout essayé :
 
 ---
 
-## ✅ La Solution : Utiliser Chrome DevTools pour des captures d'écran 4K
+## ✅ La Solution
 
 La solution que j'ai trouvée ?  
 Prendre une **capture d'écran haute résolution directement depuis Chrome DevTools** en utilisant un appareil personnalisé avec un **ratio de pixels d'appareil** (DPR) élevé.  
